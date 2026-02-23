@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<head>
+    <meta charset="UTF-8">
+    <title>Color Extractor</title>
+    <style>
+        .swatch {
+            display: inline-block;
+            width: 80px;
+            height: 80px;
+            border-radius: 8px;
+            margin: 8px;
+        }
+        .color-card { text-align: center; display: inline-block; margin: 10px; }
+    </style>
+</head>
+
+</head>
+<body>
+    <h1>🎨 Image Color Extractor</h1>
+<p>
+    Upload any <strong>JPG, JPEG or PNG</strong> image and we'll analyse it using 
+    <strong>K-Means clustering</strong> to find the <strong>10 most dominant colors</strong> 
+    in your photo — displayed as color swatches with their HEX codes, RGB values, and 
+    percentage of the image they cover.
+</p>
+<p>
+    Hope you enjoy it. Web Dev is not my strongest point, but I did give it a try.
+</p>
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" accept=".jpg,.jpeg,.png" required>
+        <button type="submit">Extract Colors</button>
+    </form>
+
+<hr>
+
+<h2>Example Output</h2>
+<p>Here's what the extractor does with a sample image:</p>
+
+<img src="{{ url_for('static', filename="sample.jpg") }}" height="200" alt="Chelsea FC sample">
+
+<h3>Top 10 Colors</h3>
+{% for color in sample_colors %}
+<div class="color-card">
+    <div class="swatch" style="background-color: {{ color.hex }};"></div>
+    <p>{{ color.hex }}</p>
+    <p>{{ color.rgb }}</p>
+    <p>{{ "%.1f"|format(color.percent) }}%</p>
+</div>
+{% endfor %}
+    
+</body>
+</html>
