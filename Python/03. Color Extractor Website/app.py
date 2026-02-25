@@ -65,7 +65,6 @@ def get_top_colors(image_path, n=10):
     
     """
 
-
 # ---------------------------- FLASK ROUTES ------------------------------- #
 
 # HOME
