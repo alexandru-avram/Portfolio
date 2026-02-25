@@ -1,0 +1,352 @@
+[
+  {
+    "RANK":1,
+    "NAME":"Counter-Strike 2",
+    "CURRENT":922368,
+    "24H_PEAK":1627561,
+    "ALL-TIME PEAK":783629632
+  },
+  {
+    "RANK":2,
+    "NAME":"Dota 2",
+    "CURRENT":497050,
+    "24H_PEAK":869734,
+    "ALL-TIME PEAK":431214179
+  },
+  {
+    "RANK":3,
+    "NAME":"PUBG: BATTLEGROUNDS",
+    "CURRENT":332579,
+    "24H_PEAK":652433,
+    "ALL-TIME PEAK":192342427
+  },
+  {
+    "RANK":4,
+    "NAME":"Bongo Cat",
+    "CURRENT":135343,
+    "24H_PEAK":171695,
+    "ALL-TIME PEAK":97961110
+  },
+  {
+    "RANK":5,
+    "NAME":"ARC Raiders",
+    "CURRENT":102508,
+    "24H_PEAK":372367,
+    "ALL-TIME PEAK":133679286
+  },
+  {
+    "RANK":6,
+    "NAME":"Delta Force",
+    "CURRENT":98159,
+    "24H_PEAK":162739,
+    "ALL-TIME PEAK":57033663
+  },
+  {
+    "RANK":7,
+    "NAME":"Wallpaper Engine",
+    "CURRENT":96402,
+    "24H_PEAK":135690,
+    "ALL-TIME PEAK":60314153
+  },
+  {
+    "RANK":8,
+    "NAME":"Apex Legends\u2122",
+    "CURRENT":94986,
+    "24H_PEAK":202729,
+    "ALL-TIME PEAK":63017487
+  },
+  {
+    "RANK":9,
+    "NAME":"Rust",
+    "CURRENT":72646,
+    "24H_PEAK":228230,
+    "ALL-TIME PEAK":87105301
+  },
+  {
+    "RANK":10,
+    "NAME":"Grand Theft Auto V Legacy",
+    "CURRENT":59978,
+    "24H_PEAK":127027,
+    "ALL-TIME PEAK":56607274
+  },
+  {
+    "RANK":11,
+    "NAME":"Terraria",
+    "CURRENT":58019,
+    "24H_PEAK":226559,
+    "ALL-TIME PEAK":79645328
+  },
+  {
+    "RANK":12,
+    "NAME":"FiveM",
+    "CURRENT":57694,
+    "24H_PEAK":190134,
+    "ALL-TIME PEAK":68030868
+  },
+  {
+    "RANK":13,
+    "NAME":"Stardew Valley",
+    "CURRENT":57635,
+    "24H_PEAK":114730,
+    "ALL-TIME PEAK":47940324
+  },
+  {
+    "RANK":14,
+    "NAME":"Mewgenics",
+    "CURRENT":49457,
+    "24H_PEAK":115063,
+    "ALL-TIME PEAK":24429704
+  },
+  {
+    "RANK":15,
+    "NAME":"Overwatch\u00ae",
+    "CURRENT":49006,
+    "24H_PEAK":164636,
+    "ALL-TIME PEAK":44946181
+  },
+  {
+    "RANK":16,
+    "NAME":"War Thunder",
+    "CURRENT":48883,
+    "24H_PEAK":107788,
+    "ALL-TIME PEAK":44720054
+  },
+  {
+    "RANK":17,
+    "NAME":"Marvel Rivals",
+    "CURRENT":44694,
+    "24H_PEAK":169426,
+    "ALL-TIME PEAK":63207349
+  },
+  {
+    "RANK":18,
+    "NAME":"NARAKA: BLADEPOINT",
+    "CURRENT":44413,
+    "24H_PEAK":96685,
+    "ALL-TIME PEAK":23868966
+  },
+  {
+    "RANK":19,
+    "NAME":"Grand Theft Auto V Enhanced",
+    "CURRENT":44038,
+    "24H_PEAK":106203,
+    "ALL-TIME PEAK":42654813
+  },
+  {
+    "RANK":20,
+    "NAME":"Warframe",
+    "CURRENT":43348,
+    "24H_PEAK":83459,
+    "ALL-TIME PEAK":43073797
+  },
+  {
+    "RANK":21,
+    "NAME":"HELLDIVERS\u2122 2",
+    "CURRENT":38375,
+    "24H_PEAK":171120,
+    "ALL-TIME PEAK":51711549
+  },
+  {
+    "RANK":22,
+    "NAME":"Team Fortress 2",
+    "CURRENT":37999,
+    "24H_PEAK":65782,
+    "ALL-TIME PEAK":36373746
+  },
+  {
+    "RANK":23,
+    "NAME":"Monster Hunter Wilds",
+    "CURRENT":37235,
+    "24H_PEAK":85505,
+    "ALL-TIME PEAK":18078229
+  },
+  {
+    "RANK":24,
+    "NAME":"VRChat",
+    "CURRENT":36450,
+    "24H_PEAK":74217,
+    "ALL-TIME PEAK":31721139
+  },
+  {
+    "RANK":25,
+    "NAME":"tModLoader",
+    "CURRENT":35872,
+    "24H_PEAK":78825,
+    "ALL-TIME PEAK":30166558
+  },
+  {
+    "RANK":26,
+    "NAME":"Geometry Dash",
+    "CURRENT":34936,
+    "24H_PEAK":100188,
+    "ALL-TIME PEAK":42271386
+  },
+  {
+    "RANK":27,
+    "NAME":"Dead by Daylight",
+    "CURRENT":34245,
+    "24H_PEAK":96633,
+    "ALL-TIME PEAK":40939910
+  },
+  {
+    "RANK":28,
+    "NAME":"Spacewar",
+    "CURRENT":33953,
+    "24H_PEAK":79361,
+    "ALL-TIME PEAK":30852192
+  },
+  {
+    "RANK":29,
+    "NAME":"Tom Clancy's Rainbow Six\u00ae Siege X",
+    "CURRENT":32490,
+    "24H_PEAK":110858,
+    "ALL-TIME PEAK":37897628
+  },
+  {
+    "RANK":30,
+    "NAME":"Palworld",
+    "CURRENT":32360,
+    "24H_PEAK":59573,
+    "ALL-TIME PEAK":25821622
+  },
+  {
+    "RANK":31,
+    "NAME":"Limbus Company",
+    "CURRENT":30157,
+    "24H_PEAK":82134,
+    "ALL-TIME PEAK":19988631
+  },
+  {
+    "RANK":32,
+    "NAME":"Heartopia",
+    "CURRENT":29313,
+    "24H_PEAK":65894,
+    "ALL-TIME PEAK":28448358
+  },
+  {
+    "RANK":33,
+    "NAME":"Crosshair X",
+    "CURRENT":28604,
+    "24H_PEAK":53801,
+    "ALL-TIME PEAK":27961957
+  },
+  {
+    "RANK":34,
+    "NAME":"Baldur's Gate 3",
+    "CURRENT":28414,
+    "24H_PEAK":100711,
+    "ALL-TIME PEAK":38513997
+  },
+  {
+    "RANK":35,
+    "NAME":"Battlefield\u2122 6",
+    "CURRENT":28405,
+    "24H_PEAK":95926,
+    "ALL-TIME PEAK":32551778
+  },
+  {
+    "RANK":36,
+    "NAME":"Don't Starve Together",
+    "CURRENT":28096,
+    "24H_PEAK":49931,
+    "ALL-TIME PEAK":17464339
+  },
+  {
+    "RANK":37,
+    "NAME":"Hearts of Iron IV",
+    "CURRENT":27185,
+    "24H_PEAK":59458,
+    "ALL-TIME PEAK":25547593
+  },
+  {
+    "RANK":38,
+    "NAME":"Sid Meier's Civilization VI",
+    "CURRENT":26990,
+    "24H_PEAK":52122,
+    "ALL-TIME PEAK":23178555
+  },
+  {
+    "RANK":39,
+    "NAME":"Banana",
+    "CURRENT":26548,
+    "24H_PEAK":42512,
+    "ALL-TIME PEAK":17674102
+  },
+  {
+    "RANK":40,
+    "NAME":"RimWorld",
+    "CURRENT":26004,
+    "24H_PEAK":43383,
+    "ALL-TIME PEAK":20074149
+  },
+  {
+    "RANK":41,
+    "NAME":"World of Warships",
+    "CURRENT":25256,
+    "24H_PEAK":33222,
+    "ALL-TIME PEAK":13710794
+  },
+  {
+    "RANK":42,
+    "NAME":"ELDEN RING NIGHTREIGN",
+    "CURRENT":24663,
+    "24H_PEAK":68136,
+    "ALL-TIME PEAK":20640429
+  },
+  {
+    "RANK":43,
+    "NAME":"PAYDAY 2",
+    "CURRENT":24432,
+    "24H_PEAK":31706,
+    "ALL-TIME PEAK":17745678
+  },
+  {
+    "RANK":44,
+    "NAME":"Red Dead Redemption 2",
+    "CURRENT":24205,
+    "24H_PEAK":68516,
+    "ALL-TIME PEAK":27222880
+  },
+  {
+    "RANK":45,
+    "NAME":"DayZ",
+    "CURRENT":23875,
+    "24H_PEAK":70047,
+    "ALL-TIME PEAK":28275033
+  },
+  {
+    "RANK":46,
+    "NAME":"Cyberpunk 2077",
+    "CURRENT":23478,
+    "24H_PEAK":50226,
+    "ALL-TIME PEAK":20692304
+  },
+  {
+    "RANK":47,
+    "NAME":"Slay the Spire",
+    "CURRENT":21734,
+    "24H_PEAK":33802,
+    "ALL-TIME PEAK":14516313
+  },
+  {
+    "RANK":48,
+    "NAME":"ULTRAKILL",
+    "CURRENT":21697,
+    "24H_PEAK":69799,
+    "ALL-TIME PEAK":2009958
+  },
+  {
+    "RANK":49,
+    "NAME":"Euro Truck Simulator 2",
+    "CURRENT":21536,
+    "24H_PEAK":73289,
+    "ALL-TIME PEAK":21826896
+  },
+  {
+    "RANK":50,
+    "NAME":"ELDEN RING",
+    "CURRENT":20352,
+    "24H_PEAK":46513,
+    "ALL-TIME PEAK":21140310
+  }
+]
