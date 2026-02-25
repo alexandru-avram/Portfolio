@@ -1,7 +1,7 @@
 {
     "python-envs.pythonProjects": [
         {
-            "path": "Python/03. Color Extractor Website",
+            "path": "Python/04. Steam top 50 Games",
             "envManager": "ms-python.python:system",
             "packageManager": "ms-python.python:pip"
         }
