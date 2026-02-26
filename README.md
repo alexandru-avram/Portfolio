@@ -41,7 +41,8 @@ team in a banking context. I bridge the gap between business logic and data pipe
 ![Power BI](https://img.shields.io/badge/Power%20BI-2%20years-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-10%20years-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Cloud & Platforms
+### Enterprise & Cloud
+![SAP](https://img.shields.io/badge/SAP-5%20years-0F5394?style=for-the-badge&logo=sap&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-1%20year-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Denodo](https://img.shields.io/badge/Denodo-1%20year-FF6D00?style=for-the-badge&logoColor=white)
 
