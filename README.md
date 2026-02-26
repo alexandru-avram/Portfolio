@@ -23,8 +23,12 @@ team in a banking context. I bridge the gap between business logic and data pipe
 ![Tagetik](https://img.shields.io/badge/Tagetik%20(CPM)-2%20years-0033A0?style=for-the-badge&logoColor=white)
 
 ## Projects
-- [Portfolio](https://github.com/alexandru-avram/Portfolio) — ...
-- [Documentation](https://github.com/alexandru-avram/Documentation) — ...
+- [Python](https://github.com/alexandru-avram/Portfolio/tree/main/Python)
+- [R - Google Capstone Project](https://github.com/alexandru-avram/Portfolio/blob/main/R/Google%20Data%20Analytics%20Certificate%20Capstone%20Project.ipynb)
+- [Power BI](https://github.com/alexandru-avram/Portfolio/tree/main/BI%20Tools/Power%20Bi)
+- [Looker](https://github.com/alexandru-avram/Portfolio/tree/main/BI%20Tools/Google%20Looker)
+- [Excel](https://github.com/alexandru-avram/Portfolio/tree/main/BI%20Tools/Excel)
+
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandru-avram-rusu-21a0564b/)
