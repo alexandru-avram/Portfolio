@@ -4,6 +4,8 @@
   <img src="__assets/profile.jpg" alt="Alex Avram" width="150" />
 </p>
 
+<p align="center">Data Engineer | Finance & Risk Background | Bucharest, RO</p>
+
 ---
 
 ## About Me
