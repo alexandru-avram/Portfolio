@@ -17,4 +17,4 @@ team in a banking context. I bridge the gap between business logic and data pipe
 - [Documentation](https://github.com/alexandru-avram/Documentation) — ...
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandru-avram-rusu-21a0564b/)
