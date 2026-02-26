@@ -27,7 +27,7 @@ team in a banking context. I bridge the gap between business logic and data pipe
   - Master's degree in Finance and Risk Management - Al. I. Cuza University, Iasi - 2014
   - Financial Account - Chamber of Commerce & Industry, Iasi - 2014
   - NCE Development Program - DXC Technology in collaboration with Microsoft - 2020
-  - [Power BI Data Analytics](https://github.com/alexandru-avram/Portfolio/blob/main/Certifications/Power%20Bi%20Certificate.pdf)
+  - [Power BI Data Analytics](https://github.com/alexandru-avram/Portfolio/blob/main/Certifications/Power%20Bi%20Certificate.pdf) - 2021
   - [Google Data Analytics](https://github.com/alexandru-avram/Portfolio/blob/main/Certifications/Google%20Data%20Analytics%20Certificate%20-%20Credly.pdf) - 2022
   - [Looker - User & Analys](https://github.com/alexandru-avram/Portfolio/blob/main/Certifications/Looker%20-%20User%20%26%20Analyst%20certification.pdf) - 2022
   - [Looker - LookML Developer](https://github.com/alexandru-avram/Portfolio/blob/main/Certifications/Looker%20-%20LookML%20Developer%20certification.pdf) - 2022
