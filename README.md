@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm Alex 👋</h1>
-<p align="center">Data Engineer | Finance & Risk Background | Bucharest, RO</p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGNkUI-xsIVdQ/profile-displayphoto-scale_400_400/B4DZyar1TcJAAg-/0/1772121712211?e=1773878400&v=beta&t=cn6yJjvwe_KDXYbp1-Z5lAzgkrGhVbOEvTObJfzEc_Q" alt="Alex Avram" width="150" />
+  <img src="_assets/profile.jpg" alt="Alex Avram" width="150" />
 </p>
-
 
 ---
 
