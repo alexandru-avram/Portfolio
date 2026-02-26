@@ -1,24 +1,20 @@
-# My Data Portfolio
+<h1 align="center">Hi, I'm Alex 👋</h1>
+<p align="center">Data Engineer | Finance & Risk Background | Bucharest, RO</p>
 
-## Certifications
-  * **Google Data Analytics Certificate** - 2022
-  * LookerML - 2022
-  * **Tagetik Platform Builder** - 2023
-  * 100 Days of Coding - The Complete Python Pro Bootcamp - 2026
+---
+
+## About Me
+I'm a data engineer with a background in finance (accounting, credit risk, FP&A)
+who transitioned into IT in 2022. Currently working on a Data Governance & Quality
+team in a banking context. I bridge the gap between business logic and data pipelines.
+
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ## Projects
+- [Portfolio](https://github.com/alexandru-avram/Portfolio) — ...
+- [Documentation](https://github.com/alexandru-avram/Documentation) — ...
 
-This repository contains basic exercises and various personal/course related projects that I am able to display. 
-Please also note that most of my work was designed for work related issues, so I cannot display it due to confidentiality or contextual issues.
-
-These include projects in:
-
-### Programming 
-  * Python
-  * R (Google Data Analytics Capstone Project
-
-### Bi Tools
-  * PowerBi
-  * Google Looker
-  * Excel with VBA
-
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-link)
