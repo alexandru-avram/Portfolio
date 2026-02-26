@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alex 👋</h1>
 
 <p align="center">
-  <img src="_assets/profile.jpg" alt="Alex Avram" width="150" />
+  <img src="__assets/profile.jpg" alt="Alex Avram" width="150" />
 </p>
 
 ---
