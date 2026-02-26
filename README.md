@@ -8,6 +8,14 @@ I'm a data engineer with a background in finance (accounting, credit risk, FP&A)
 who transitioned into IT in 2022. Currently working on a Data Governance & Quality
 team in a banking context. I bridge the gap between business logic and data pipelines.
 
+
+## Certifications
+#### [Google Data Analytics](https://github.com/alexandru-avram/Portfolio/blob/main/Certifications/Google%20Data%20Analytics%20Certificate%20-%20Credly.pdf) - 2022
+#### [Looker - User & Analys](https://github.com/alexandru-avram/Portfolio/blob/main/Certifications/Looker%20-%20User%20%26%20Analyst%20certification.pdf)
+#### [Looker - LookML Developer](https://github.com/alexandru-avram/Portfolio/blob/main/Certifications/Looker%20-%20LookML%20Developer%20certification.pdf)
+#### [Tagetik Platform Builder](https://github.com/alexandru-avram/Portfolio/blob/main/Certifications/Tagetik%20-%20Platform%20Builder%20Certificate.pdf)
+#### [100 Days of Code - Complete Python Pro Bootcamp](https://github.com/alexandru-avram/Portfolio/blob/main/Certifications/100%20Days%20of%20Coding%20-%20The%20Complete%20Python%20Pro%20Bootcamp.pdf)
+
 ## Tech Stack
 ### Data & Analytics
 ![SQL](https://img.shields.io/badge/SQL-5%20years-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
