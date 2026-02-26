@@ -1,12 +1,20 @@
-<h1 align="center">Hi, I'm Alex 👋</h1>
-
-<p align="center">
-  <img src="__assets/profile.jpg" alt="Alex Avram" width="150" />
-</p>
-
-<p align="center">Data Engineer | Finance & Risk Background | Bucharest, RO</p>
-
----
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/alexandru-avram/Portfolio/main/__assets/profile.jpg" 
+           alt="Alex Avram" width="180" />
+    </td>
+    <td>
+      <h1>Hi, I'm Alex 👋</h1>
+      <p>
+        🧑‍💻 Data Engineer<br/>
+        🏦 Finance & Risk background<br/>
+        📍 Bucharest, Romania<br/>
+        💼 Currently on a Data Governance & Quality project in banking
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## About Me
 I'm a data engineer with a background in finance (accounting, credit risk, FP&A)
