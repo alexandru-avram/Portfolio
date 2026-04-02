@@ -7,10 +7,10 @@
     <td>
       <h1>Hi, I'm Alex 👋</h1>
       <p>
-        🧑‍💻 Data Engineer<br/>
+        🧑‍💻 Finance & Data Analyst<br/>
         🏦 Finance & Risk background<br/>
         📍 Bucharest, Romania<br/>
-        💼 Currently on a Data Governance & Quality project in banking
+        💼 Currently on a Data Governance & Quality Analyst project in banking
       </p>
     </td>
   </tr>
