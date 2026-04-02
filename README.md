@@ -7,7 +7,7 @@
     <td>
       <h1>Hi, I'm Alex 👋</h1>
       <p>
-        🧑‍💻 Finance & Data Analyst<br/>
+        🧑‍💻 Data & Finance Analyst<br/>
         🏦 Finance & Risk background<br/>
         📍 Bucharest, Romania<br/>
         💼 Currently on a Data Governance & Quality Analyst project in banking
