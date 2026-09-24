@@ -10,16 +10,14 @@
         🧑‍💻 Data & Finance Analyst<br/>
         🏦 Finance & Risk background<br/>
         📍 Bucharest, Romania<br/>
-        💼 Currently on a Data Governance & Quality Analyst project in banking
+        💼 Currently working as a Data Modeler, part of a finance team
       </p>
     </td>
   </tr>
 </table>
 
 ## About Me
-I'm a data engineer with a background in finance (accounting, credit risk, FP&A)
-who transitioned into IT in 2022. Currently working on a Data Governance & Quality
-team in a banking context. I bridge the gap between business logic and data pipelines.
+I'm a data engineer with a background in finance (accounting, credit risk, FP&A) who transitioned into IT in 2022. Currently working on as a Data Modeler for the finance department at Siemens Energy. I bridge the gap between business logic and data pipelines.
 
 
 ## (Main) Certifications / Courses / Education
