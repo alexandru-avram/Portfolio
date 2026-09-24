@@ -7,10 +7,10 @@
     <td>
       <h1>Hi, I'm Alex 👋</h1>
       <p>
-        🧑‍💻 Data & Finance Analyst<br/>
+        🧑‍💻 Data & Finance Expert<br/>
         🏦 Finance & Risk background<br/>
         📍 Bucharest, Romania<br/>
-        💼 Currently working as a Data Modeler, part of a finance team
+        💼 Data Modeler, Siemens Energy
       </p>
     </td>
   </tr>
